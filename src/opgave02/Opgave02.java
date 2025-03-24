@@ -8,5 +8,7 @@ public class Opgave02 {
         for (Integer integer : range) {
             System.out.println(integer);
         }
+
+
     }
 }
